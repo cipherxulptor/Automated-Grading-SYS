@@ -1,4 +1,4 @@
-# Grade Management System
+# Automated Grading System
 
 This project is a web application which manages the grades of different students. It performs CRUD (Create, read(view), update and delete) operations, calculates the
 grade (average grade, letter grade and overall class average) of every student, registers a user (student/professor role) and use Spring security to allow/restrict 
@@ -85,14 +85,8 @@ There are several ways to run a Spring Boot application on your local machine. O
 
 Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
 
-```shell
-$ git clone https://github.com/Dev-Daljeet/GradeManagementSystem.git
-$ cd GradeManagementSystem
-$ mvn spring-boot:run
-```
-
-# License
-MIT License
+`
 Copyright (c) 2020 Dev-Daljeet
 
 Refer to **LICENSE** file for full information.
+
