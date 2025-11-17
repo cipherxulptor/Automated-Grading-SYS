@@ -1,1 +1,1 @@
-package com.devdaljeet.grademanagementsystem.security;
+package com.devdaljeet.grademanagementsystem.beans;
